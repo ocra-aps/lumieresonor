@@ -1,3 +1,3 @@
-# lumierés sonores
+# lumierès sonores
 
-Any relevant multi-sensorial experience requires its own C++ library :D
+Single header wrapper for Arduino-based multisensorial experience
